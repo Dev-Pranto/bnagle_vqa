@@ -1,0 +1,1208 @@
+{
+    "accuracy": 36.666666666666664,
+    "avg_similarity": 57.6,
+    "correct_predictions": 55,
+    "total_samples": 150,
+    "detailed_results": [
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000458752.jpg",
+            "question": "এই ছবিটি কিসের মাধ্যমে তোলা হয়েছে?",
+            "true_answer": "নেট",
+            "model_answer": "স্টেডিয়াম থেকে",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000458752.jpg",
+            "question": "এই লোকটি কোন অবস্থানে খেলছে?",
+            "true_answer": "কলস",
+            "model_answer": "বেসবল টেম্পলেট",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000458752.jpg",
+            "question": "খেলোয়াড়দের শার্টের রং কি?",
+            "true_answer": "কমলা",
+            "model_answer": "রাখা হয়েছে না।",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000458752.jpg",
+            "question": "এই লোকটি কি একজন পেশাদার বেসবল খেলোয়াড়?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262146.jpg",
+            "question": "তুষার কি রঙ?",
+            "true_answer": "সাদা",
+            "model_answer": "সাদা",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262146.jpg",
+            "question": "ব্যক্তি কি করছে?",
+            "true_answer": "স্কিইং",
+            "model_answer": "স্কি করছে।",
+            "similarity_score": 67,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262146.jpg",
+            "question": "ব্যক্তিদের হেডওয়্যারের রঙ কী?",
+            "true_answer": "লাল",
+            "model_answer": "হেডওয়্যার লাল।",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393221.jpg",
+            "question": "আকাশ কি নীল?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "নিশ্চিত নয়",
+            "similarity_score": 22,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393221.jpg",
+            "question": "পাহাড়ে কি বরফ পড়ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "পাহাড়ে বরফ পড়ছে।",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393221.jpg",
+            "question": "সাদা ধারা কি?",
+            "true_answer": "contrail",
+            "model_answer": "নেভিগেশন রেল",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393223.jpg",
+            "question": "জানালা কি খোলা?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393223.jpg",
+            "question": "টুথব্রাশের রং কি?",
+            "true_answer": "সাদা এবং বেগুনি",
+            "model_answer": "সাদা",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393223.jpg",
+            "question": "বাচ্চা কি করছে?",
+            "true_answer": "দাঁত মাজা",
+            "model_answer": "চুল্লি খেলছে",
+            "similarity_score": 11,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393223.jpg",
+            "question": "সে কি ব্রাশ করছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "নিউট্রাল ব্রাশ",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524297.jpg",
+            "question": "পোষাক থেকে বিচার, এটি একটি ল্যাটিন আমেরিকান দেশে নেওয়া হয়েছিল?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524297.jpg",
+            "question": "এই ছবিতে কি রং দেখানো হয়?",
+            "true_answer": "সাদাকালো",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524297.jpg",
+            "question": "ফুটপাতে কি পুরুষরা?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524297.jpg",
+            "question": "এই ছবিটি কি সম্প্রতি তোলা হয়েছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393227.jpg",
+            "question": "লোকটির কি ট্যাটু আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393227.jpg",
+            "question": "এই লোকটি কিসের উপর চড়েছে?",
+            "true_answer": "স্কেটবোর্ড",
+            "model_answer": "স্কেট",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393227.jpg",
+            "question": "এই মানুষটির শরীরে কত ট্যাটু দেখা যায়?",
+            "true_answer": "১",
+            "model_answer": "২টি",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393227.jpg",
+            "question": "তার টুপি কি রং?",
+            "true_answer": "নীল",
+            "model_answer": "বাদামী",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393227.jpg",
+            "question": "মানুষের মুখের ভিসার কি যথেষ্ট সুরক্ষা প্রদান করে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "এই ব্যক্তি কি করছেন?",
+            "true_answer": "স্কিইং",
+            "model_answer": "স্কি করছেন",
+            "similarity_score": 67,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "এই ছবিতে কতজন মানুষ আছে?",
+            "true_answer": "১",
+            "model_answer": "একজন",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "সামনে কি গাছের ছায়া আছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "মানুষটি কি করতেছে?",
+            "true_answer": "স্কিইং",
+            "model_answer": "স্কি করছে।",
+            "similarity_score": 67,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "আকাশ কি রঙ?",
+            "true_answer": "ধূসর",
+            "model_answer": "গোলাপী",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "পরা ব্যক্তি কি?",
+            "true_answer": "স্কিস",
+            "model_answer": "স্কির ব্যাটারি",
+            "similarity_score": 80,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "কেউ কি বরফের মধ্যে তার লাগেজ ভুলে গেছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "তার কোট কি রং?",
+            "true_answer": "নীল",
+            "model_answer": "সাদা",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "এটা কি দিনের বেলা?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "সে কি ধরে আছে?",
+            "true_answer": "খুঁটি",
+            "model_answer": "স্কি",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393230.jpg",
+            "question": "টুপি পরা ব্যক্তি কি?",
+            "true_answer": "না",
+            "model_answer": "স্কির খেলছেন।",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "টিভিতে সবুজ আলো কী নির্দেশ করে?",
+            "true_answer": "চালু",
+            "model_answer": "সবুজ আলো সবুজ নির্দেশ করে।",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "আলো জ্বলছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "এটা কোন ঘরের ঘর?",
+            "true_answer": "দপ্তর",
+            "model_answer": "সহকারী ঘর",
+            "similarity_score": 20,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "টিভির সাইজ কত?",
+            "true_answer": "বড়",
+            "model_answer": "বিশেষ করে নির্দিষ্ট সাইজ নির্দেশ করা হয়নি।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "রুম কি এলোমেলো?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "এটা কি টিভি পর্দা?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "টিভি কত বড়?",
+            "true_answer": "খুব বড়",
+            "model_answer": "বড়",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "কোন সঙ্গীর আপত্তি টিভিতে ছবির নীচে ডানদিকে দেখা যাবে?",
+            "true_answer": "ল্যাপটপ",
+            "model_answer": "ল্যাপটপ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "বামদিকের ছোট কম্পিউটারকে কী বলা হয়?",
+            "true_answer": "ল্যাপটপ",
+            "model_answer": "ল্যাপটপ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "টিভির উপরে কি আছে?",
+            "true_answer": "প্রকাশ",
+            "model_answer": "প্রোজেক্টর",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "ডিসপ্লেতে কী আছে?",
+            "true_answer": "নথি",
+            "model_answer": "Outlook Web App",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "ছবিতে একটি ল্যাপটপ আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "এটি একটি মনিটর বা একটি স্ক্রিন অভিক্ষেপ?",
+            "true_answer": "পর্দা অভিক্ষেপ",
+            "model_answer": "স্ক্রিন",
+            "similarity_score": 29,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "টিভি পর্দায় কি আছে?",
+            "true_answer": "কম্পিউটার",
+            "model_answer": "প্রোজেক্টর",
+            "similarity_score": 62,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131075.jpg",
+            "question": "ছবিতে উপস্থাপনার শিরোনাম কী?",
+            "true_answer": "আউটলুক ওয়েব অ্যাপ",
+            "model_answer": "\"Outlook Web App\"",
+            "similarity_score": 12,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000137045.jpg",
+            "question": "ভালুকের রং কি?",
+            "true_answer": "কালো",
+            "model_answer": "সাদা",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000137045.jpg",
+            "question": "প্রাণীটি কি স্তন্যপায়ী প্রাণী?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000137045.jpg",
+            "question": "এটা কি?",
+            "true_answer": "ভালুক",
+            "model_answer": "চিত্রে একটি মাছ দেখা যাচ্ছে।",
+            "similarity_score": 20,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131093.jpg",
+            "question": "ছবিতে কি পাথর আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131093.jpg",
+            "question": "ভেড়া কি সম্প্রতি শেভ করা হয়েছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131093.jpg",
+            "question": "এই কয়টি ভেড়া?",
+            "true_answer": "৩",
+            "model_answer": "৩টি",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131093.jpg",
+            "question": "তিনটি ভেড়া আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524311.jpg",
+            "question": "লোকটা কি খেলছে?",
+            "true_answer": "wii",
+            "model_answer": "Wii",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524311.jpg",
+            "question": "লোকটা কি ভালো সময় কাটাচ্ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524311.jpg",
+            "question": "লোকটার মুখে কি আছে?",
+            "true_answer": "চশমা",
+            "model_answer": "ট্যাগ",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফের সামনে কী আছে?",
+            "true_answer": "গাছ",
+            "model_answer": "গাছ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "এই জিরাফের মধ্যে কি মিল আছে?",
+            "true_answer": "খাওয়া",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "এই ছবিটি কি চিড়িয়াখানার হতে পারে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "পশুরা কি খাচ্ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "গাছের ফুল",
+            "similarity_score": 20,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফ কোথায়?",
+            "true_answer": "গাছের কাছে",
+            "model_answer": "গিরাফ একটি গিরাফ দেখা যাচ্ছে একটি গিরাফ দেখা যাচ্ছ",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "একটি জেব্রা আছে?",
+            "true_answer": "না",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফ কি পিছনে দাঁড়িয়ে আছে?",
+            "true_answer": "গাছ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফ কি গাছ খাচ্ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না, জিরাফ গাছ খাচ্ছে না। তারা পাতা খায়।",
+            "similarity_score": 20,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "উভয় জিরাফ কি দাঁড়িয়ে আছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "তারা কি চিড়িয়াখানায় আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "ডানদিকে জিরাফের পাশের মাটিতে কী আছে?",
+            "true_answer": "লগ",
+            "model_answer": "গাছ",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "কিছু গাছ কি মরে গেছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "কোন প্রাণী কি খাচ্ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "গিরাফ খাচ্ছে।",
+            "similarity_score": 20,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফ কি ছায়ায় আছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "এই জিরাফরা কি মুক্ত পরিসরে বাস করছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "কয়টি জিরাফ আছে?",
+            "true_answer": "২",
+            "model_answer": "২টি",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "জিরাফের কাছাকাছি একটি পাথর আছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000025.jpg",
+            "question": "এই ছবিতে কয়টি প্রাণী আছে?",
+            "true_answer": "২",
+            "model_answer": "২",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524314.jpg",
+            "question": "লোকটা রাস্তায় কেন?",
+            "true_answer": "গৃহহীন",
+            "model_answer": "সহায়তা চান",
+            "similarity_score": 17,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524314.jpg",
+            "question": "লোকটা কেমন বসে আছে?",
+            "true_answer": "ক্রস পায়ে",
+            "model_answer": "সাধারণ বসন্ত বসে।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524314.jpg",
+            "question": "উপরের-বাম কোণে, জানালার পিছনে শব্দটি ইংরেজিতে কী অনুবাদ করে?",
+            "true_answer": "স্বয়ংক্রিয়",
+            "model_answer": "\"Automatique\"",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262171.jpg",
+            "question": "নৌকায় কত লোক?",
+            "true_answer": "৫",
+            "model_answer": "৫",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262171.jpg",
+            "question": "পাতার রং কি?",
+            "true_answer": "সবুজ",
+            "model_answer": "সবুজ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262171.jpg",
+            "question": "এটা কি ধরনের জলযান?",
+            "true_answer": "ভেলা",
+            "model_answer": "রাইডার বাঁধার জলযান",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262172.jpg",
+            "question": "নীল কুলার দুটো কোথায়?",
+            "true_answer": "বাম",
+            "model_answer": "ছবিতে দেখা যায় না।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262172.jpg",
+            "question": "এটা কি ধরনের ঘর?",
+            "true_answer": "বসার ঘর",
+            "model_answer": "ঘরের প্রস্তুতি",
+            "similarity_score": 43,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262172.jpg",
+            "question": "তারা কি চলন্ত?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131101.jpg",
+            "question": "ছাতা কি রং?",
+            "true_answer": "গোলাপী",
+            "model_answer": "পোকামাকারী",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131101.jpg",
+            "question": "এই লোকটি কি রাগ করে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131101.jpg",
+            "question": "কোন হাতে ছাতা ধরে?",
+            "true_answer": "অধিকার",
+            "model_answer": "প্রায় একটি হাতে",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000240304.jpg",
+            "question": "জেব্রা কি খাচ্ছে?",
+            "true_answer": "ঘাস",
+            "model_answer": "জেব্রা গাছ থেকে খাচ্ছে।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000240304.jpg",
+            "question": "জেব্রা কি একই দিকে মুখ করে থাকে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000240304.jpg",
+            "question": "গাছ কি দিয়ে আচ্ছাদিত?",
+            "true_answer": "তার",
+            "model_answer": "গাছ দিয়ে আচ্ছাদিত।",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000034.jpg",
+            "question": "এটা কি ঘোড়া?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000034.jpg",
+            "question": "পশু কি খাচ্ছে?",
+            "true_answer": "ঘাস",
+            "model_answer": "জেব্রা",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000000034.jpg",
+            "question": "প্রাণীর বয়স কত?",
+            "true_answer": "10 বছর",
+            "model_answer": "নির্দিষ্ট করা যায় না।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393251.jpg",
+            "question": "তারা কি শিশুর পার্টিতে মদ খাচ্ছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393251.jpg",
+            "question": "লোকটি কি চশমা পরা?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393251.jpg",
+            "question": "লোকটা কি ধরে আছে?",
+            "true_answer": "ছুরি",
+            "model_answer": "লোকটা একটি কেক খেলছে।",
+            "similarity_score": 29,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393251.jpg",
+            "question": "লোকটা কি কাটছে?",
+            "true_answer": "কেক",
+            "model_answer": "কেক",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262180.jpg",
+            "question": "ফল কি?",
+            "true_answer": "কলা",
+            "model_answer": "বনানা",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262180.jpg",
+            "question": "এটি একটি ভাল ডেজার্ট?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262180.jpg",
+            "question": "এই খাবার বানাতে হবে এমন ব্যক্তির নাম কি?",
+            "true_answer": "পাচক",
+            "model_answer": "বনানা চকলেট কেক",
+            "similarity_score": 75,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262180.jpg",
+            "question": "প্লেটে কি ধরনের আইসক্রিম আছে?",
+            "true_answer": "ভ্যানিলা",
+            "model_answer": "হ্যাঁ, আছে।",
+            "similarity_score": 38,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524325.jpg",
+            "question": "এই ছবির সামনে কয়জন হাফপ্যান্ট পরে আছে?",
+            "true_answer": "৪",
+            "model_answer": "২",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524325.jpg",
+            "question": "এটি কি ইনডোর বা আউটডোর ফটো?",
+            "true_answer": "বহিরঙ্গন",
+            "model_answer": "আউটডোর",
+            "similarity_score": 17,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524325.jpg",
+            "question": "ঐ ঘুড়ি কি বাতাসে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "হ্যাঁ",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262184.jpg",
+            "question": "এটা কি খেলনা আকারের ট্রাক?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262184.jpg",
+            "question": "আকাশ কি পূর্ণ?",
+            "true_answer": "মেঘ",
+            "model_answer": "নেকড়ে",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262184.jpg",
+            "question": "কোথায় ট্রাক?",
+            "true_answer": "ডক",
+            "model_answer": "পাহাড়ের সামনে",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131113.jpg",
+            "question": "কার্পেটের রং কি?",
+            "true_answer": "বাদামী",
+            "model_answer": "বাদামী",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131113.jpg",
+            "question": "মেঝেতে একটি কার্পেট আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131113.jpg",
+            "question": "রেফ্রিজারেটরের রং কি?",
+            "true_answer": "রূপা",
+            "model_answer": "স্লাইভার",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131113.jpg",
+            "question": "এই ডিভাইস কি?",
+            "true_answer": "রেফ্রিজারেটর",
+            "model_answer": "হ্রদ কুয়ান্টাম ক্যাসিনো",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262187.jpg",
+            "question": "এই প্লেন ল্যান্ডিং?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262187.jpg",
+            "question": "প্লেনের রং কি?",
+            "true_answer": "লাল",
+            "model_answer": "রে�",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262187.jpg",
+            "question": "সমতলের পাশের জানালাগুলো কেমন আকৃতির?",
+            "true_answer": "বর্গক্ষেত্র",
+            "model_answer": "বর্গাকৃতি",
+            "similarity_score": 67,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262187.jpg",
+            "question": "প্লেন কি টেক অফ করছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131118.jpg",
+            "question": "এরা কি এয়ারলাইনার?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131118.jpg",
+            "question": "ছবিতে কয়টি প্লেন আছে?",
+            "true_answer": "২",
+            "model_answer": "২টি",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131118.jpg",
+            "question": "এই কার্গো প্লেন?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262191.jpg",
+            "question": "এই ভালুক একটি স্বাভাবিক আকার?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262191.jpg",
+            "question": "চিহ্নের উপর ওয়েবসাইট কি?",
+            "true_answer": "wmatacom",
+            "model_answer": "Wmata.com",
+            "similarity_score": 88,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262191.jpg",
+            "question": "ভালুককে কী বলা হয়?",
+            "true_answer": "টেডি",
+            "model_answer": "টিডি বার্নি",
+            "similarity_score": 75,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524338.jpg",
+            "question": "এই ছবিতে কয়টি গাছ আছে?",
+            "true_answer": "৩",
+            "model_answer": "একটি",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524338.jpg",
+            "question": "লোকটি কি ধরনের গাছের পাশে দাঁড়িয়ে আছে?",
+            "true_answer": "এলম",
+            "model_answer": "পুকুর",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000524338.jpg",
+            "question": "এই লোকটি কি মোবাইল ফোনের স্ক্রিন পড়ছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000213863.jpg",
+            "question": "প্যান্টে কি প্যাটার্ন আছে?",
+            "true_answer": "ফিতে",
+            "model_answer": "পিন্ট প্যাটার্ন",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000213863.jpg",
+            "question": "এই ব্যক্তি কি খেলাধুলা করছে?",
+            "true_answer": "বেসবল",
+            "model_answer": "বেসবল",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000213863.jpg",
+            "question": "ব্যাটারের পেছনে খেলোয়াড়ের অবস্থানকে কী বলা হয়?",
+            "true_answer": "ধরা",
+            "model_answer": "হ্যাটচার",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393268.jpg",
+            "question": "মেয়ের শার্ট কি রং?",
+            "true_answer": "নীল",
+            "model_answer": "সাদা",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393268.jpg",
+            "question": "তারা কি পান করছে?",
+            "true_answer": "বিয়ার",
+            "model_answer": "সোনা",
+            "similarity_score": 25,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000393268.jpg",
+            "question": "বিয়ার কোন ব্র্যান্ডের দৃশ্যমান?",
+            "true_answer": "সিয়েরা নেভাদা",
+            "model_answer": "না পরিচিত",
+            "similarity_score": 22,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131126.jpg",
+            "question": "ব্রুকলিন এভিনিউ কোথায়?",
+            "true_answer": "নীচে",
+            "model_answer": "ঢাকা",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131126.jpg",
+            "question": "ব্রুকলিন এভ কোন দিকে?",
+            "true_answer": "উত্তর",
+            "model_answer": "বাম",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131126.jpg",
+            "question": "ছবিতে একটি স্টপ সাইন আছে?",
+            "true_answer": "হ্যাঁ",
+            "model_answer": "না",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131127.jpg",
+            "question": "লোকটির শার্টে কি লোগো আছে?",
+            "true_answer": "নাইকি",
+            "model_answer": "নিকেল জেরি",
+            "similarity_score": 40,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131127.jpg",
+            "question": "লোকটা কি অসুখী?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131127.jpg",
+            "question": "পুরুষরা কি কলা ভাগ করতে যাচ্ছে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131128.jpg",
+            "question": "ফুলের রং কি?",
+            "true_answer": "হলুদ এবং সাদা",
+            "model_answer": "হলুদ এবং সাদা",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131128.jpg",
+            "question": "ফুল কি রং?",
+            "true_answer": "হলুদ এবং সাদা",
+            "model_answer": "হলুদ, সাদা",
+            "similarity_score": 60,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131128.jpg",
+            "question": "ফুলদানিতে কত ফুল আঁকা হয়?",
+            "true_answer": "৩",
+            "model_answer": "সাতটি",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000131128.jpg",
+            "question": "আঁকা ফুল কি আসল ফুলের সাথে মেলে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262201.jpg",
+            "question": "পাখি কোথায়?",
+            "true_answer": "পাহাড়ের উপর",
+            "model_answer": "পাখি পাথরে।",
+            "similarity_score": 36,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262201.jpg",
+            "question": "পাখিরা কি জলে যাবে?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262201.jpg",
+            "question": "পাখিটা কোন দিকে তাকিয়ে আছে?",
+            "true_answer": "অধিকার",
+            "model_answer": "পাখি তাকিয়ে আছে তার পিছনের দিকে।",
+            "similarity_score": 33,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262201.jpg",
+            "question": "এই পাখি কি ধারে ভয় পায়?",
+            "true_answer": "না",
+            "model_answer": "না",
+            "similarity_score": 100,
+            "correct": true
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000370986.jpg",
+            "question": "এটি দিনের কি সময়?",
+            "true_answer": "সকাল",
+            "model_answer": "প্রায় সন্ধ্যাবেলা",
+            "similarity_score": 50,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000370986.jpg",
+            "question": "পানিতে কয়টি হাতি আছে?",
+            "true_answer": "২",
+            "model_answer": "৩",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000370986.jpg",
+            "question": "এই ছবিতে আপনি কয়টি লেজ দেখতে পাচ্ছেন?",
+            "true_answer": "৩",
+            "model_answer": "১২",
+            "similarity_score": 0,
+            "correct": false
+        },
+        {
+            "image_path": "/kaggle/input/nlp-image/train2014/COCO_train2014_000000262204.jpg",
+            "question": "কয়টি tusks দৃশ্যমান হয়?",
+            "true_answer": "২",
+            "model_answer": "২",
+            "similarity_score": 100,
+            "correct": true
+        }
+    ]
+}
