@@ -78,11 +78,4 @@ To run the notebook locally or on Colab/Kaggle, you will need the following depe
 
 ```bash
 pip install torch transformers pillow fuzzywuzzy python-levenshtein xlsxwriter accelerate
-## 2. Running the Code
-Open qwen2vl.ipynb in Jupyter Notebook, Google Colab, or Kaggle.Ensure you have the COCO Train2014 dataset and the Bangla VQA JSON files available in your environment (update the file paths in the notebook if necessary).Run all cells to execute the inference pipeline and generate new reports.
-## 📈 Sample ResultsQuestion
-(Bangla)True AnswerModel AnswerScoreStatusতুষার কি রঙ?(What color is the snow?)সাদাসাদা100%✅ Correctএই লোকটি কি একজন পেশাদার বেসবল খেলোয়াড়?(Is this man a professional baseball player?)হ্যাঁহ্যাঁ100%✅ Correctএই ছবিটি কিসের মাধ্যমে তোলা হয়েছে?(Through what was this picture taken?)নেটস্টেডিয়াম থেকে33%❌ Incorrect🔮 Future WorkFine-tuning: Fine-tune the Qwen2-VL model specifically on the Bangla VQA training set to improve the 36% baseline accuracy.Prompt Engineering: Experiment with different system prompts to force the model into stricter short-form answers.
 
-##📜 LicenseThis project is open-source and available under the MIT License.
-### Next Step
-Since your repo name has a small typo (`bnagle_vqa` instead of `bangla_vqa`), would you l
